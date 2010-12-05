@@ -134,7 +134,6 @@
 		android:text="Accessible" />
 	<EditText
 		android:id="@+id/accessible"
-		android:inputType="number"
 		android:layout_width="fill_parent"
 		android:layout_height="wrap_content"
 		/>
@@ -145,7 +144,6 @@
 		android:text="Category of Damage" />
 	<EditText
 		android:id="@+id/damage"
-		android:inputType="number"
 		android:layout_width="fill_parent"
 		android:layout_height="wrap_content"
 		/>
@@ -156,7 +154,6 @@
 		android:text="Description of Damages" />
 	<EditText
 		android:id="@+id/description"
-		android:inputType="number"
 		android:layout_width="fill_parent"
 		android:layout_height="wrap_content"
 		/>
@@ -167,7 +164,6 @@
 		android:text="Contact Name" />
 	<EditText
 		android:id="@+id/contact"
-		android:inputType="number"
 		android:layout_width="fill_parent"
 		android:layout_height="wrap_content"
 		/>
